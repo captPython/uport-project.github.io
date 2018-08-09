@@ -10,11 +10,11 @@ uPort Developer Portal
 |[Ethr DID Resolver](https://github.com/uport-project/ethr-did-resolver)|[develop e46f4b0978edeb1bb81a92e2e70bdbde8a8e242d](https://github.com/uport-project/ethr-did-resolver/tree/e46f4b0978edeb1bb81a92e2e70bdbde8a8e242d)|
 |[Ethereum DID Registry](https://github.com/uport-project/ethr-did-registry)|[develop d5a4ea072cd21d0fbb7eef162fc10199587fa4a7](https://github.com/uport-project/ethr-did-registry/tree/d5a4ea072cd21d0fbb7eef162fc10199587fa4a7)|
 |[Ethr DID Library](https://github.com/uport-project/ethr-did)|[develop 27ced502b76827961558a89175f8044ef69d2ab7](https://github.com/uport-project/ethr-did/tree/27ced502b76827961558a89175f8044ef69d2ab7)|
-|[uPort Connect](https://github.com/uport-project/uport-connect)|[develop 87af8dd98d1c88367ca908ee28157678f61cc3e4](https://github.com/uport-project/uport-connect/tree/87af8dd98d1c88367ca908ee28157678f61cc3e4)|
-|[uPort Credentials](https://github.com/uport-project/uport-js)|[develop 79ccbff9acddc23cbbbe81833b225b6841f6fc7b](https://github.com/uport-project/uport-js/tree/79ccbff9acddc23cbbbe81833b225b6841f6fc7b)|
+|[uPort Connect](https://github.com/uport-project/uport-connect)|[feature/update-docs-for-did-major ](https://github.com/uport-project/uport-connect)|
+|[uPort Credentials](https://github.com/uport-project/uport-js)|[feature/did-doc-updates ](https://github.com/uport-project/uport-js)|
 |[JWT](https://github.com/uport-project/did-jwt)|[develop 34732fa0f26696f65df099a2c18cc63e77c4e7f8](https://github.com/uport-project/did-jwt/tree/34732fa0f26696f65df099a2c18cc63e77c4e7f8)|
 |[uPort Specs](https://github.com/uport-project/specs)|[develop eab1657d2d933a68e2082377356536011f7c2a48](https://github.com/uport-project/specs/tree/eab1657d2d933a68e2082377356536011f7c2a48)|
-|[uPort Docs](https://github.com/uport-project/docs)|[develop 32c1e34e5d8e78893f52083a5ac04ffbbf722995](https://github.com/uport-project/docs/tree/32c1e34e5d8e78893f52083a5ac04ffbbf722995)|
+|[uPort Docs](https://github.com/uport-project/docs)|[feature/did-major-release ](https://github.com/uport-project/docs)|
 
 ## Get started
 
